@@ -2,6 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## SetUp ENV Variables
+
+```bash
+NEXTAUTH_SECRET=fgffgbgfngnnvfghfhvgngffg/fghfhgnf=
+NEXTAUTH_URL=http://localhost:3000
+
+GITHUB_ID=Ov23licbbdsgrgdcfbf
+GITHUB_SECRET=70c53cdf7252d709d0ab94943346641ce1438582f
+GOOGLE_CLIENT_ID=123456789-abcdefghifgklmnop.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+```
 First, run the development server:
 
 ```bash
